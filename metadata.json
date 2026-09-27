@@ -1,0 +1,8 @@
+{
+  "name": "AgriN — Regenerative Agricultural Intelligence Network",
+  "description": "Local Intelligence. Regenerative Farming. Shared Resilience. Prototype digital agriculture intelligence network for small and marginal farmers across agro-ecological zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
